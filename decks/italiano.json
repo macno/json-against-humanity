@@ -1,0 +1,5924 @@
+[
+   {
+      "id": 0,
+      "cardType": "Q",
+      "text": "_ + _ = _.",
+      "numAnswers": 3,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 1,
+      "cardType": "Q",
+      "text": "Si, ho ucciso _ Ti domandi come? _",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 2,
+      "cardType": "Q",
+      "text": "E il premio Oscar per _ va a _",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 3,
+      "cardType": "Q",
+      "text": "Per il mio prossimo numero tirerò fuori _ da _",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 4,
+      "cardType": "Q",
+      "text": "Passo 1: _ Passo 2: _ Passo 3: Guadagno!",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 5,
+      "cardType": "Q",
+      "text": "Mentre ero sotto gli effetti di acidi, _ si trasformò in _",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 6,
+      "cardType": "Q",
+      "text": "_ è una tendenza pericolosa che porta a _",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 7,
+      "cardType": "Q",
+      "text": "In un mondo depredato da _ il nostro unico conforto è _",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 8,
+      "cardType": "Q",
+      "text": "Nel nuovo film di Shyamalan Bruce Willis scopre che _ era invece _ per tutto il tempo.",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 9,
+      "cardType": "Q",
+      "text": "Non avevo veramente compreso _ finché non incontrai _",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 10,
+      "cardType": "Q",
+      "text": "Voci dicono che il piatto preferito di Vladimir Putin è _ ripieno di _",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 11,
+      "cardType": "Q",
+      "text": "LA7D presenta _la storia di _",
+      "numAnswers": 2,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 12,
+      "cardType": "Q",
+      "text": "La nuova norma sulla sicurezza ora proibisce _ sugli aerei. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 13,
+      "cardType": "Q",
+      "text": "È un peccato che i ragazzini al giorno d'oggi partecipino a _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 14,
+      "cardType": "Q",
+      "text": "Fra 1.000 anni, quando le banconote saranno soltanto un ricordo lontano, _ sarà il nostro denaro. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 15,
+      "cardType": "Q",
+      "text": "La lega serie A ha vietato _ poiché dà un vantaggio ingiusto ai giocatori. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 16,
+      "cardType": "Q",
+      "text": "Qual è il vizio segreto di Batman? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 17,
+      "cardType": "Q",
+      "text": "Il prossimo romanzo di J.K.Rowling. Harry Potter e la camera dei _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 18,
+      "cardType": "Q",
+      "text": "Prof. mi dispiace ma non ho potuto finire i compiti per colpa di _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 19,
+      "cardType": "Q",
+      "text": "Cosa ho portato dal Messico? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 20,
+      "cardType": "Q",
+      "text": "_? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 21,
+      "cardType": "Q",
+      "text": "C'è un app per quello. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 22,
+      "cardType": "Q",
+      "text": "_ Scommetto che non ne desideri soltanto uno! ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 23,
+      "cardType": "Q",
+      "text": "Qual è il mio antidroga? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 24,
+      "cardType": "Q",
+      "text": "Mentre gli USA e la Russia gareggiavano per la conquista della Luna, il Messico ha investito milioni di pesos in _  ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 25,
+      "cardType": "Q",
+      "text": "Nel nuovo film della Disney, Hannah Montana si scontra per la prima volta contro ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 26,
+      "cardType": "Q",
+      "text": "_ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 27,
+      "cardType": "Q",
+      "text": "Qual è il mio potere segreto? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 28,
+      "cardType": "Q",
+      "text": "Qual è la nuova dieta del momento? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 29,
+      "cardType": "Q",
+      "text": "Cosa si mangia Vin Diesel per cena? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 30,
+      "cardType": "Q",
+      "text": "Quando il faraone rimase impassibile, Mosè scateno la piaga _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 31,
+      "cardType": "Q",
+      "text": "Come faccio a mantenere la mia attuale relazione? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 32,
+      "cardType": "Q",
+      "text": "Qual è la cosa più incrostata? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 33,
+      "cardType": "Q",
+      "text": "Nel carcere di Los Angeles le voci dicono che puoi scambiare 200 sigarette per _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 34,
+      "cardType": "Q",
+      "text": "Dopo il terremoto Sean Penn portò _ alle persone di Haiti. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 35,
+      "cardType": "Q",
+      "text": "Invece del carbone la Befana ora porta ai bambini cattivi _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 36,
+      "cardType": "Q",
+      "text": "La vita degli indiani d'America cambiò per sempre quando gli uomini bianchi Ii introdussero a _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 37,
+      "cardType": "Q",
+      "text": "Cosa usano gli insegnanti per ispirare al successo i ragazzi? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 38,
+      "cardType": "Q",
+      "text": "Amaro Montenegro. Sapore di _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 39,
+      "cardType": "Q",
+      "text": "Negli ultimi istanti di vita di Michael Jackson lui pensò a _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 40,
+      "cardType": "Q",
+      "text": "Ai neri piace _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 41,
+      "cardType": "Q",
+      "text": "Perché ho male ovunque? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 42,
+      "cardType": "Q",
+      "text": "Una romantica cena a lume di candela è incompleta senza _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 43,
+      "cardType": "Q",
+      "text": "Cosa posso andare a prendere dal passato per convincere la gente di essere un potente stregone? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 44,
+      "cardType": "Q",
+      "text": "Sono Valerio Staffelli e sono qui per parlavi di _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 45,
+      "cardType": "Q",
+      "text": "La gita scolastica fu completamente rovinata da _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 46,
+      "cardType": "Q",
+      "text": "Qual è il miglior amico di una ragazza? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 47,
+      "cardType": "Q",
+      "text": "Cara TopGirl, ho difficoltà con _ e vorrei qualche consiglio. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 48,
+      "cardType": "Q",
+      "text": "Quando sarò il capo del governo creerò il Ministero del _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 49,
+      "cardType": "Q",
+      "text": "Cosa mi stanno nascondendo i miei genitori? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 50,
+      "cardType": "Q",
+      "text": "Cosa non fallisce mai nel ravvivare una festa? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 51,
+      "cardType": "Q",
+      "text": "Cosa migliora con l'età? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 52,
+      "cardType": "Q",
+      "text": "_ buono fino all'ultima goccia. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 53,
+      "cardType": "Q",
+      "text": "Ho un sacco di problemi ma _ non è fra questi. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 54,
+      "cardType": "Q",
+      "text": "_ è una trappola! ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 55,
+      "cardType": "Q",
+      "text": "Il nuovo reality show di MTV presenterà otto celebrità sull'orlo dello sfinimento che vivranno con _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 56,
+      "cardType": "Q",
+      "text": "Cos'è che mia nonna troverebbe allarmante ma nello stesso tempo anche stranamente affascinante? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 57,
+      "cardType": "Q",
+      "text": "Chi è il più emo? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 58,
+      "cardType": "Q",
+      "text": "Durante il sesso mi piace pensare a _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 59,
+      "cardType": "Q",
+      "text": "Cosa fece finire la mia passata relazione? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 60,
+      "cardType": "Q",
+      "text": "Cos'è questo suono? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 61,
+      "cardType": "Q",
+      "text": "_ Così è come voglio morire! ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 62,
+      "cardType": "Q",
+      "text": "Perché sono appiccicoso? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 63,
+      "cardType": "Q",
+      "text": "Quale sarà il prossimo giocattolo dell'Happy Meal? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 64,
+      "cardType": "Q",
+      "text": "Cosa sarà disponibile a volontà in paradiso? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 65,
+      "cardType": "Q",
+      "text": "Non so con che armi sarà combattuta la terza guerra mondiale. Ma nella quarta si useranno _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 66,
+      "cardType": "Q",
+      "text": "Cosa ti permette di portarti a letto, con assoluta certezza, una ragazza? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 67,
+      "cardType": "Q",
+      "text": "_: testato dai bambini, approvato dalle madri. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 68,
+      "cardType": "Q",
+      "text": "Perché non riesco a dormire? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 69,
+      "cardType": "Q",
+      "text": "Cos'è questo odore? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 70,
+      "cardType": "Q",
+      "text": "Cosa aiuterebbe Monti a rilassarsi? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 71,
+      "cardType": "Q",
+      "text": "Questo è come il mondo finirà, non con una esplosione ma con _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 72,
+      "cardType": "Q",
+      "text": "In arrivo a Broadway quest'anno, _: il musical. ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 73,
+      "cardType": "Q",
+      "text": "Gli antropologi hanno recentemente scoperto un'antica tribù che venera _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 74,
+      "cardType": "Q",
+      "text": "Ma prima che la uccida Signor Bond le voglio mostrare _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 75,
+      "cardType": "Q",
+      "text": "Recenti studi hanno mostrato che topi di laboratorio impiegano il 50% in meno per uscire da un labirinto se sono stati esposti a _  ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 76,
+      "cardType": "Q",
+      "text": "Quale sarà la prossima coppia di supereroi? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 77,
+      "cardType": "Q",
+      "text": "Prossimamente su Rai Sport 2: i mondiali di _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 78,
+      "cardType": "Q",
+      "text": "Quando sarò milionario erigerò una statua di 30 metri per commemorare _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 79,
+      "cardType": "Q",
+      "text": "Nel tentativo di attrarre nuove persone, il museo nazionale di Storia Naturale inaugurerà una mostra interattiva su _  ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 80,
+      "cardType": "Q",
+      "text": "Guerra! A cosa ci serve? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 81,
+      "cardType": "Q",
+      "text": "Cosa mi crea flatulenze incontrollabili? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 82,
+      "cardType": "Q",
+      "text": "Di cosa odorano le persone anziane? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 83,
+      "cardType": "Q",
+      "text": "A cosa rinuncio per la quaresima? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 84,
+      "cardType": "Q",
+      "text": "La medicina alternativa sta ora adottando i poteri curativi di _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 85,
+      "cardType": "Q",
+      "text": "Quale cosa l'Italia ha paracadutato ai bambini afghani? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 86,
+      "cardType": "Q",
+      "text": "Cosa piace a Silvio Berlusconi? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 87,
+      "cardType": "Q",
+      "text": "Durante il trascurato Periodo Marrone, Picasso ha prodotto centinai di quadri su _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 88,
+      "cardType": "Q",
+      "text": "Cosa non vuoi trovare nel tuo cibo cinese? ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 89,
+      "cardType": "Q",
+      "text": "Bevo per dimenticare _ ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 90,
+      "cardType": "Q",
+      "text": "_ Dammi un cinque fratello! ",
+      "numAnswers": 1,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 91,
+      "cardType": "Q",
+      "text": "Mors tua, vita mea. _ tua, vita _",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 92,
+      "cardType": "Q",
+      "text": "Benvenuti nella terra di _ dove potrete ammirare _ allo stato brado!",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 93,
+      "cardType": "Q",
+      "text": "Ogni volta che ascolto in tv la voce di _ mi vien voglia di _",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 94,
+      "cardType": "Q",
+      "text": "A proposito di _, per me la soluzione è _",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 95,
+      "cardType": "Q",
+      "text": "L'altra sera mentre portavo a spasso il cane, ho visto _ che con aria sospetta stava per _",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 96,
+      "cardType": "Q",
+      "text": "Oggi _ mi sembra davvero molto_",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 97,
+      "cardType": "Q",
+      "text": "A _ quando è in bagno, piace pensare a _",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 98,
+      "cardType": "Q",
+      "text": "Walt Disney presenta _ un nuovo cartoon che parla di _",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 99,
+      "cardType": "Q",
+      "text": "Un_ al giorno leva _ di torno!",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 100,
+      "cardType": "Q",
+      "text": "Vorrei _ per conquistare _",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 101,
+      "cardType": "Q",
+      "text": "C'è crisi, si torna al baratto: _ per _.",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 102,
+      "cardType": "Q",
+      "text": "Il mio sogno ricorrente: _ che _.",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 103,
+      "cardType": "Q",
+      "text": "L'assenza di _ è un evidente sintomo di _",
+      "numAnswers": 2,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 104,
+      "cardType": "Q",
+      "text": "Arricchisciti rapidamente con _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 105,
+      "cardType": "Q",
+      "text": "_ è la radice di tutti i mali del mondo!",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 106,
+      "cardType": "Q",
+      "text": "Il video della canzone \"YMCA\" fu registrato dai VillagePepole vestiti  da marinaio, pompiere, indiano e _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 107,
+      "cardType": "Q",
+      "text": "Era una notte buia e tempestosa. Ad un tratto la porta sbattè e _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 108,
+      "cardType": "Q",
+      "text": "KEEP CALM AND _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 109,
+      "cardType": "Q",
+      "text": "L'Italia è fallita! Non ci sono più soldi. Adesso non mi resta che _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 110,
+      "cardType": "Q",
+      "text": "Salendo in soffitta ho aperto l'antico baule di mia nonna e al suo interno ho trovato _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 111,
+      "cardType": "Q",
+      "text": "E' il mio primo volo in aereo, ma il passeggero seduto accanto a me _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 112,
+      "cardType": "Q",
+      "text": "Ciao, sono Silvio Berlusconi e quando verrò eletto restituirò _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 113,
+      "cardType": "Q",
+      "text": "Caro Babbo Natale, quest'anno in regalo vorrei _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 114,
+      "cardType": "Q",
+      "text": "Amore mio, sono qui in ginocchio davanti a te per _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 115,
+      "cardType": "Q",
+      "text": "Non so _, ora cerco come si fa su youtube!",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 116,
+      "cardType": "Q",
+      "text": "Il mio primo pensiero al mattino è _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 117,
+      "cardType": "Q",
+      "text": "Piuttosto che andare dalla suocera, preferisco _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 118,
+      "cardType": "Q",
+      "text": "Oggi ti vedo strano, non ti senti bene? Non è che hai mangiato _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 119,
+      "cardType": "Q",
+      "text": "A _ quando è in bagno, piace pensare a _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 120,
+      "cardType": "Q",
+      "text": "Prova il nuovo philadelphia al gusto di _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 121,
+      "cardType": "Q",
+      "text": "Quando aprì il vaso, Pandora vi trovò un'unica cosa: _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 122,
+      "cardType": "Q",
+      "text": "Dlin dlon, un addetto pulizie al reparto _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 123,
+      "cardType": "Q",
+      "text": "Il peggior regalo di natale mai avuto da bambino è stato _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 124,
+      "cardType": "Q",
+      "text": "Rocco Siffredi nel tempo libero colleziona _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 125,
+      "cardType": "Q",
+      "text": "Mamma/papà come nascono i bambini? Come gli rispondi? _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 126,
+      "cardType": "Q",
+      "text": "Stai facendo sesso selvaggio e succede che _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 127,
+      "cardType": "Q",
+      "text": "Il 1930 è spesso indicato come l'età d'oro del _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 128,
+      "cardType": "Q",
+      "text": "La verità è che alla fine dell'universo c'è soltanto _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 129,
+      "cardType": "Q",
+      "text": "E' ampiamente diffusa l'idea che i nostri antenati non si sarebbero mai evoluti senza _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 130,
+      "cardType": "Q",
+      "text": "Ho un'idea vincente per un nuovo programma tv. _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 131,
+      "cardType": "Q",
+      "text": "La ricetta del successo. _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 132,
+      "cardType": "Q",
+      "text": "Qual è la nuova dieta del momento? _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 133,
+      "cardType": "Q",
+      "text": "Un'invenzione che potrebbe salvare il mondo. _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 134,
+      "cardType": "Q",
+      "text": "Vieni sorpreso da un temporale, per non bagnarti ti rifugi _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 135,
+      "cardType": "Q",
+      "text": "Uccidi i tuoi nemici con _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 136,
+      "cardType": "Q",
+      "text": "Al primo appuntamento ti presenti con? _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 137,
+      "cardType": "Q",
+      "text": "Primo classificato: _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 138,
+      "cardType": "Q",
+      "text": "La mia ultima frase sul letto di morte sarebbe: _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 139,
+      "cardType": "Q",
+      "text": "_ non così che vi fate male!",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 140,
+      "cardType": "Q",
+      "text": "Avevo un piano perfetto, ma non avevo considerato _.",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 141,
+      "cardType": "Q",
+      "text": "_. Così è la vita!",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 142,
+      "cardType": "Q",
+      "text": "Quale sarà la nostra ultima speranza quando un nuovo Demone-Robot invaderà il mondo?",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 143,
+      "cardType": "Q",
+      "text": "Quando ho visto tua madre nuda, mi ha ricordato _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 144,
+      "cardType": "Q",
+      "text": "Hanno appena trovato un _ nei rifiuti dell'ospedale di Napoli.",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 145,
+      "cardType": "Q",
+      "text": "Adoro l'odore di _ la mattina.",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 146,
+      "cardType": "Q",
+      "text": "In realtà l'11 settembre fu organizzato da _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 147,
+      "cardType": "Q",
+      "text": "Il Sacro Graal descritto nella Bibbia in realtà non è un calice ma è _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 148,
+      "cardType": "Q",
+      "text": "La felicità è _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 149,
+      "cardType": "Q",
+      "text": "Che ore sono? E' l'ora di_!",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 150,
+      "cardType": "Q",
+      "text": "La nonna mi diceva sempre che _, mi avrebbe reso cieco!",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 151,
+      "cardType": "Q",
+      "text": "_ è l'ottavo peccato capitale!",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 152,
+      "cardType": "Q",
+      "text": "Il dottore mi ha comunicato con faccia severa che il mio era un grave caso di _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 153,
+      "cardType": "Q",
+      "text": "Mi prodigherei in un ricco pompino soltanto per _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 154,
+      "cardType": "Q",
+      "text": "Baci il rospo ma, invece di trasformarsi in un principe, diventa _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 155,
+      "cardType": "Q",
+      "text": "La più grande disavventura che può capitare a una donna è _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 156,
+      "cardType": "Q",
+      "text": "Mamma mamma perchè papà indossa le scarpe col tacco 12?",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 157,
+      "cardType": "Q",
+      "text": "Obama ha un tatuaggio nascosto che raffigura _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 158,
+      "cardType": "Q",
+      "text": "Cos'hai fatto l'estate scorsa?",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 159,
+      "cardType": "Q",
+      "text": "Sei simpatico come _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 160,
+      "cardType": "Q",
+      "text": "Questa bibita energetica ha un sapore di _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 161,
+      "cardType": "Q",
+      "text": "Rimedi naturali per combattere l'aerofagia: _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 162,
+      "cardType": "Q",
+      "text": "Dopo 10 anni di fidanzamento ti lascia con due semplici parole: sono omosessuale. La tua reazione è _",
+      "numAnswers": 1,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 163,
+      "cardType": "A",
+      "text": "Una maledizione di un Gitano",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 164,
+      "cardType": "A",
+      "text": "Un momento di silenzio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 165,
+      "cardType": "A",
+      "text": "Un festival della salsiccia",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 166,
+      "cardType": "A",
+      "text": "Un poliziotto onesto che non ha niente da perdere",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 167,
+      "cardType": "A",
+      "text": "Carestia",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 168,
+      "cardType": "A",
+      "text": "Batteri Mangia-Carne",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 169,
+      "cardType": "A",
+      "text": "Serpenti volanti che fanno sesso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 170,
+      "cardType": "A",
+      "text": "Non fregarsene un cazzo del Terzo Mondo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 171,
+      "cardType": "A",
+      "text": "Sexting",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 172,
+      "cardType": "A",
+      "text": "Benny Benassi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 173,
+      "cardType": "A",
+      "text": "Pornostar",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 174,
+      "cardType": "A",
+      "text": "Stupro e Saccheggio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 175,
+      "cardType": "A",
+      "text": "72 vergini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 176,
+      "cardType": "A",
+      "text": "Sparatoria da auto in corsa",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 177,
+      "cardType": "A",
+      "text": "Un paradosso da viaggio nel tempo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 178,
+      "cardType": "A",
+      "text": "Cucina autentica messicana",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 179,
+      "cardType": "A",
+      "text": "Gioielli da rapper",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 180,
+      "cardType": "A",
+      "text": "Consulente",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 181,
+      "cardType": "A",
+      "text": "Oberato dai debiti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 182,
+      "cardType": "A",
+      "text": "Problemi col babbo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 183,
+      "cardType": "A",
+      "text": "Avere l'approvazione di Lapo Elkan",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 184,
+      "cardType": "A",
+      "text": "Far cadere un lampadario sopra ai tuoi nemici e farsi sollevare dalla corda che lo sosteneva",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 185,
+      "cardType": "A",
+      "text": "L'Ex presidente George W  Bush",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 186,
+      "cardType": "A",
+      "text": "Nudità completa",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 187,
+      "cardType": "A",
+      "text": "Iniezioni ormonali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 188,
+      "cardType": "A",
+      "text": "Covare un uovo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 189,
+      "cardType": "A",
+      "text": "Spogliarsi e mettersi a guardare l'Albero Azzurro",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 190,
+      "cardType": "A",
+      "text": "Far finta di interessarsi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 191,
+      "cardType": "A",
+      "text": "Ridicolizzarsi in pubblico",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 192,
+      "cardType": "A",
+      "text": "Scambiarsi le siringhe",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 193,
+      "cardType": "A",
+      "text": "Caccole",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 194,
+      "cardType": "A",
+      "text": "L'inevitabile morte termica dell'universo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 195,
+      "cardType": "A",
+      "text": "Il miracolo della nascita",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 196,
+      "cardType": "A",
+      "text": "Il rapimento alieno",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 197,
+      "cardType": "A",
+      "text": "Tirarlo fuori",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 198,
+      "cardType": "A",
+      "text": "I privilegi dei bianchi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 199,
+      "cardType": "A",
+      "text": "Compiti da moglie",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 200,
+      "cardType": "A",
+      "text": "La banda Bassotti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 201,
+      "cardType": "A",
+      "text": "Deodorante AXE",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 202,
+      "cardType": "A",
+      "text": "Il sangue di Cristo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 203,
+      "cardType": "A",
+      "text": "Orribili incidenti dovuti alla depilazione laser",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 204,
+      "cardType": "A",
+      "text": "BATMAN!!! ",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 205,
+      "cardType": "A",
+      "text": "Agricoltura",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 206,
+      "cardType": "A",
+      "text": "Un robusto mongoloide",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 207,
+      "cardType": "A",
+      "text": "Selezione naturale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 208,
+      "cardType": "A",
+      "text": "Aborti fatti con l'appendiabiti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 209,
+      "cardType": "A",
+      "text": "Mangiarsi tutti  i dolci prima  dell'inizio  della cena di beneficenza per i malati di AIDS",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 210,
+      "cardType": "A",
+      "text": "Le braccia di Michelle Obama",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 211,
+      "cardType": "A",
+      "text": "World of Warcraft",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 212,
+      "cardType": "A",
+      "text": "Andare in picchiata",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 213,
+      "cardType": "A",
+      "text": "Obesità",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 214,
+      "cardType": "A",
+      "text": "Un montaggio pallavolistico omoerotico",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 215,
+      "cardType": "A",
+      "text": "Tetano",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 216,
+      "cardType": "A",
+      "text": "Una dimostrazione di un accoppiamento",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 217,
+      "cardType": "A",
+      "text": "Torsione del testicolo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 218,
+      "cardType": "A",
+      "text": "Cena a buffet per 5 euro",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 219,
+      "cardType": "A",
+      "text": "Pizza con la nutella",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 220,
+      "cardType": "A",
+      "text": "Gigi D'Alessio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 221,
+      "cardType": "A",
+      "text": "Formaggio piccante",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 222,
+      "cardType": "A",
+      "text": "Attacchi da Velociraptor",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 223,
+      "cardType": "A",
+      "text": "Togliersi la maglietta",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 224,
+      "cardType": "A",
+      "text": "Smegma",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 225,
+      "cardType": "A",
+      "text": "Alcolismo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 226,
+      "cardType": "A",
+      "text": "Un uomo di mezza eta' con un paio di pattini in linea",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 227,
+      "cardType": "A",
+      "text": "Lo sguardo fisso di una Winx",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 228,
+      "cardType": "A",
+      "text": "Abbuffarsi e vomitare",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 229,
+      "cardType": "A",
+      "text": "Lecca-Lecca giganti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 230,
+      "cardType": "A",
+      "text": "Disgusto di sé",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 231,
+      "cardType": "A",
+      "text": "Bambini al guinzaglio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 232,
+      "cardType": "A",
+      "text": "Preliminari meschini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 233,
+      "cardType": "A",
+      "text": "La sacra Bibbia",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 234,
+      "cardType": "A",
+      "text": "Porno in un sotterraneo tedesco",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 235,
+      "cardType": "A",
+      "text": "Essere in fiamme",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 236,
+      "cardType": "A",
+      "text": "Gravidanza in età adolescenziale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 237,
+      "cardType": "A",
+      "text": "Gandhi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 238,
+      "cardType": "A",
+      "text": "Lasciare un messaggio imbarazzante in segreteria",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 239,
+      "cardType": "A",
+      "text": "Montanti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 240,
+      "cardType": "A",
+      "text": "Agente del servizio clienti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 241,
+      "cardType": "A",
+      "text": "Un'erezione che dura più di quattro ore",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 242,
+      "cardType": "A",
+      "text": "I miei genitali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 243,
+      "cardType": "A",
+      "text": "Rimorchiare ragazze all'ospedale dopo un aborto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 244,
+      "cardType": "A",
+      "text": "Scienza",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 245,
+      "cardType": "A",
+      "text": "Sesso orale non ricambiato",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 246,
+      "cardType": "A",
+      "text": "Uccelli incapaci di volare",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 247,
+      "cardType": "A",
+      "text": "Una buona sniffata",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 248,
+      "cardType": "A",
+      "text": "Tortura cinese",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 249,
+      "cardType": "A",
+      "text": "Una colazione bilanciata",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 250,
+      "cardType": "A",
+      "text": "Scuole gestite da suore",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 251,
+      "cardType": "A",
+      "text": "Rubare veramente una caramella ad un bambino",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 252,
+      "cardType": "A",
+      "text": "La fondazione Make-A-Wish",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 253,
+      "cardType": "A",
+      "text": "Una grattata di culo clandestina",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 254,
+      "cardType": "A",
+      "text": "Post-it passivi aggressivi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 255,
+      "cardType": "A",
+      "text": "La squadra di ginnastica artistica cinese",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 256,
+      "cardType": "A",
+      "text": "Passare a Vodafone",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 257,
+      "cardType": "A",
+      "text": "Fare solo un pochino di pipì",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 258,
+      "cardType": "A",
+      "text": "Video di Barbara D'Urso in lacrime mentre ascolta una storia triste",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 259,
+      "cardType": "A",
+      "text": "Polluzione notturna",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 260,
+      "cardType": "A",
+      "text": "Gli ebrei",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 261,
+      "cardType": "A",
+      "text": "Le mie tette",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 262,
+      "cardType": "A",
+      "text": "Cosce poderose",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 263,
+      "cardType": "A",
+      "text": "Fare I'occhioIino a persone anziane",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 264,
+      "cardType": "A",
+      "text": "Mr  Muscolo, giusto dietro di te",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 265,
+      "cardType": "A",
+      "text": "Una gentile carezza nell'interno della coscia",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 266,
+      "cardType": "A",
+      "text": "Tensione sessuale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 267,
+      "cardType": "A",
+      "text": "Il frutto proibito",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 268,
+      "cardType": "A",
+      "text": "Skeletor",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 269,
+      "cardType": "A",
+      "text": "KiteKat",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 270,
+      "cardType": "A",
+      "text": "Essere ricco",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 271,
+      "cardType": "A",
+      "text": "Dolce, dolce vendetta",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 272,
+      "cardType": "A",
+      "text": "Popolo delle Libertà",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 273,
+      "cardType": "A",
+      "text": "Centauri",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 274,
+      "cardType": "A",
+      "text": "Un'antiIope che soffre di flatulenza",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 275,
+      "cardType": "A",
+      "text": "Natalie Portman",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 276,
+      "cardType": "A",
+      "text": "Toccare una tetta senza dare nell'occhio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 277,
+      "cardType": "A",
+      "text": "Piloti Kamikaze",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 278,
+      "cardType": "A",
+      "text": "Sean Connery",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 279,
+      "cardType": "A",
+      "text": "Obbiettivi politici degli omosessuali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 280,
+      "cardType": "A",
+      "text": "Un operoso cinese",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 281,
+      "cardType": "A",
+      "text": "Un falco con un cappuccio in testa",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 282,
+      "cardType": "A",
+      "text": "Chierichetti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 283,
+      "cardType": "A",
+      "text": "Pac--Man",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 284,
+      "cardType": "A",
+      "text": "Diventare così arrabbiati da farsi venire un'erezione",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 285,
+      "cardType": "A",
+      "text": "Campioni gratuiti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 286,
+      "cardType": "A",
+      "text": "Un gran rumore per nulla",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 287,
+      "cardType": "A",
+      "text": "Fare la cosa giusta",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 288,
+      "cardType": "A",
+      "text": "I patti Lateranensi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 289,
+      "cardType": "A",
+      "text": "Allattamento",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 290,
+      "cardType": "A",
+      "text": "La pace nel mondo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 291,
+      "cardType": "A",
+      "text": "RoboCop",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 292,
+      "cardType": "A",
+      "text": "Faccia tosta",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 293,
+      "cardType": "A",
+      "text": "Justin Bieber",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 294,
+      "cardType": "A",
+      "text": "Oompa-Loompa",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 295,
+      "cardType": "A",
+      "text": "Gorgheggi in momenti inappropriati",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 296,
+      "cardType": "A",
+      "text": "Pubertà",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 297,
+      "cardType": "A",
+      "text": "Fantasmi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 298,
+      "cardType": "A",
+      "text": "Una spagnola non simmetrica",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 299,
+      "cardType": "A",
+      "text": "Mani vigorose da jazzista",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 300,
+      "cardType": "A",
+      "text": "Ditalini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 301,
+      "cardType": "A",
+      "text": "Bruno Vespa che si impiglia con lo scroto in un gancio per le tende",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 302,
+      "cardType": "A",
+      "text": "Polaretti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 303,
+      "cardType": "A",
+      "text": "Violenza della polizia",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 304,
+      "cardType": "A",
+      "text": "Totò Riina",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 305,
+      "cardType": "A",
+      "text": "Preadolescente",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 306,
+      "cardType": "A",
+      "text": "Scalpare",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 307,
+      "cardType": "A",
+      "text": "Mascherare una risata quando vengono menzionati gli Hutu e i Tutsi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 308,
+      "cardType": "A",
+      "text": "Twittare",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 309,
+      "cardType": "A",
+      "text": "Darth Fenner",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 310,
+      "cardType": "A",
+      "text": "Una pugnetta triste",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 311,
+      "cardType": "A",
+      "text": "Esattamente quello che ti aspetti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 312,
+      "cardType": "A",
+      "text": "Aspettarsi un rutto e invece vomitare sul pavimento",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 313,
+      "cardType": "A",
+      "text": "Psicofarmaci",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 314,
+      "cardType": "A",
+      "text": "Cellule staminali embrionali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 315,
+      "cardType": "A",
+      "text": "Un succulento seno",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 316,
+      "cardType": "A",
+      "text": "Sesso tra panda",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 317,
+      "cardType": "A",
+      "text": "Una Iobotomia fatta con un punteruolo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 318,
+      "cardType": "A",
+      "text": "Tom Cruise",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 319,
+      "cardType": "A",
+      "text": "Herpes labiale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 320,
+      "cardType": "A",
+      "text": "Capodogli",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 321,
+      "cardType": "A",
+      "text": "Barboni",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 322,
+      "cardType": "A",
+      "text": "Petting duro",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 323,
+      "cardType": "A",
+      "text": "Incesto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 324,
+      "cardType": "A",
+      "text": "Pac-Man che trangugia sperma",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 325,
+      "cardType": "A",
+      "text": "Un mimo che ha un infarto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 326,
+      "cardType": "A",
+      "text": "Hulk Hogan",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 327,
+      "cardType": "A",
+      "text": "Dio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 328,
+      "cardType": "A",
+      "text": "Esfoliarsi la pelle sotto i rotoli di grasso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 329,
+      "cardType": "A",
+      "text": "Doccia di piscio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 330,
+      "cardType": "A",
+      "text": "Emozioni",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 331,
+      "cardType": "A",
+      "text": "Leccare cose per rivendicarle come proprie",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 332,
+      "cardType": "A",
+      "text": "Birra Moretti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 333,
+      "cardType": "A",
+      "text": "La placenta",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 334,
+      "cardType": "A",
+      "text": "Combustione umana spontanea",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 335,
+      "cardType": "A",
+      "text": "Scopamici",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 336,
+      "cardType": "A",
+      "text": "Dipingere con le dita",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 337,
+      "cardType": "A",
+      "text": "L'odore delle persone vecchie",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 338,
+      "cardType": "A",
+      "text": "Avere soltanto un pollo di gomma con una carrucola in mezzo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 339,
+      "cardType": "A",
+      "text": "I miei demoni interiori",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 340,
+      "cardType": "A",
+      "text": "Un Liquidator pieno di piscio di gatto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 341,
+      "cardType": "A",
+      "text": "Giuseppe Mazzini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 342,
+      "cardType": "A",
+      "text": "Coccolarsi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 343,
+      "cardType": "A",
+      "text": "Rosso relativo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 344,
+      "cardType": "A",
+      "text": "Combattimenti tra galli",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 345,
+      "cardType": "A",
+      "text": "Fuoco amico",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 346,
+      "cardType": "A",
+      "text": "Ronald Reagan",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 347,
+      "cardType": "A",
+      "text": "Un compleanno deludente",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 348,
+      "cardType": "A",
+      "text": "Una sfacciata donna di colore",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 349,
+      "cardType": "A",
+      "text": "Ragazzini che partecipano alle olimpiadi della matematica",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 350,
+      "cardType": "A",
+      "text": "Un minuscolo cavallo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 351,
+      "cardType": "A",
+      "text": "Diego Abatantuono",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 352,
+      "cardType": "A",
+      "text": "Cavalcare al tramonto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 353,
+      "cardType": "A",
+      "text": "Un colpo di scena degno di",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 354,
+      "cardType": "A",
+      "text": "M Night Shyamalan",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 355,
+      "cardType": "A",
+      "text": "Dredlock",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 356,
+      "cardType": "A",
+      "text": "Distruzione reciproca",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 357,
+      "cardType": "A",
+      "text": "Pedofili",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 358,
+      "cardType": "A",
+      "text": "Lievito",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 359,
+      "cardType": "A",
+      "text": "Saccheggiare tombe",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 360,
+      "cardType": "A",
+      "text": "Mangiare I'ultimo bisonte",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 361,
+      "cardType": "A",
+      "text": "Catapulte",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 362,
+      "cardType": "A",
+      "text": "Persone povere",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 363,
+      "cardType": "A",
+      "text": "Il nome della rosa",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 364,
+      "cardType": "A",
+      "text": "Hustle — I signori della truffa",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 365,
+      "cardType": "A",
+      "text": "La forza",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 366,
+      "cardType": "A",
+      "text": "Pulirle il culo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 367,
+      "cardType": "A",
+      "text": "Creazionismo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 368,
+      "cardType": "A",
+      "text": "Bocca larga",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 369,
+      "cardType": "A",
+      "text": "AIDS",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 370,
+      "cardType": "A",
+      "text": "Foto di tette",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 371,
+      "cardType": "A",
+      "text": "Il superuomo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 372,
+      "cardType": "A",
+      "text": "Sarah Palin",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 373,
+      "cardType": "A",
+      "text": "Giochi senza frontiere",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 374,
+      "cardType": "A",
+      "text": "Sballarsi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 375,
+      "cardType": "A",
+      "text": "Scientology",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 376,
+      "cardType": "A",
+      "text": "L'invidia per il pene",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 377,
+      "cardType": "A",
+      "text": "Curare l'omosessualità pregando",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 378,
+      "cardType": "A",
+      "text": "Spassarsela",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 379,
+      "cardType": "A",
+      "text": "Due nani che stanno cagando in un secchio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 380,
+      "cardType": "A",
+      "text": "Il KKK",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 381,
+      "cardType": "A",
+      "text": "Gengis Khan",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 382,
+      "cardType": "A",
+      "text": "Cristalli di metanfetamina",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 383,
+      "cardType": "A",
+      "text": "Servi della gleba",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 384,
+      "cardType": "A",
+      "text": "Il pericolo degli sconosciuti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 385,
+      "cardType": "A",
+      "text": "Bop it",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 386,
+      "cardType": "A",
+      "text": "La carriera di attore di Shaquille O'NeaI",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 387,
+      "cardType": "A",
+      "text": "Baldanzoso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 388,
+      "cardType": "A",
+      "text": "La giustizia spicciola",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 389,
+      "cardType": "A",
+      "text": "Un bukkake censurato",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 390,
+      "cardType": "A",
+      "text": "Una vita di tristezza",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 391,
+      "cardType": "A",
+      "text": "Razzismo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 392,
+      "cardType": "A",
+      "text": "Lancio dei nani",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 393,
+      "cardType": "A",
+      "text": "Sole e arcobaleni",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 394,
+      "cardType": "A",
+      "text": "Una scimmia che fuma un sigaro",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 395,
+      "cardType": "A",
+      "text": "Inondazione improvvisa",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 396,
+      "cardType": "A",
+      "text": "Il testicolo mancante di Lance Armstrong",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 397,
+      "cardType": "A",
+      "text": "Conati di vomito",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 398,
+      "cardType": "A",
+      "text": "I terroristi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 399,
+      "cardType": "A",
+      "text": "Britney Spears a 55 anni",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 400,
+      "cardType": "A",
+      "text": "Atteggiamento",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 401,
+      "cardType": "A",
+      "text": "Entrare a canzone iniziata e mettersi a ballare selvaggiamente",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 402,
+      "cardType": "A",
+      "text": "Lebbra",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 403,
+      "cardType": "A",
+      "text": "Gloryholes",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 404,
+      "cardType": "A",
+      "text": "Lame nei capezzoli",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 405,
+      "cardType": "A",
+      "text": "Il cuore di un bambino",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 406,
+      "cardType": "A",
+      "text": "Cuccioli!",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 407,
+      "cardType": "A",
+      "text": "Svegliarsi mezzo nudo nel parcheggio di un McDonald",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 408,
+      "cardType": "A",
+      "text": "Dighe dentali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 409,
+      "cardType": "A",
+      "text": "La vagina di Oriana Fallaci",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 410,
+      "cardType": "A",
+      "text": "Il perineo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 411,
+      "cardType": "A",
+      "text": "Ascolto interessato",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 412,
+      "cardType": "A",
+      "text": "Pulizia etnica",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 413,
+      "cardType": "A",
+      "text": "Il brutto anatroccolo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 414,
+      "cardType": "A",
+      "text": "La mano invisibile",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 415,
+      "cardType": "A",
+      "text": "Aspettare fino al matrimonio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 416,
+      "cardType": "A",
+      "text": "Stupidita' incomprensibile",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 417,
+      "cardType": "A",
+      "text": "Euphoria di Calvin Klein",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 418,
+      "cardType": "A",
+      "text": "Riciclare regali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 419,
+      "cardType": "A",
+      "text": "Disfunzione erettile",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 420,
+      "cardType": "A",
+      "text": "Sovra-compensazione",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 421,
+      "cardType": "A",
+      "text": "Auto-cannibalismo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 422,
+      "cardType": "A",
+      "text": "La mia collezione di giocattoli erotici high-tech",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 423,
+      "cardType": "A",
+      "text": "Il Papa",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 424,
+      "cardType": "A",
+      "text": "Le persone non di colore",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 425,
+      "cardType": "A",
+      "text": "Porno Tentacolari",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 426,
+      "cardType": "A",
+      "text": "Giuliano Ferrara che vomita convulsamente mentre una nidiata di granchi-ragno si schiude nel suo cervello e fuoriesce dai suoi condotti lacrimali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 427,
+      "cardType": "A",
+      "text": "Troppo gel per capelli",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 428,
+      "cardType": "A",
+      "text": "Seppuku",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 429,
+      "cardType": "A",
+      "text": "Ballare su ghiaccio con persone dello stesso sesso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 430,
+      "cardType": "A",
+      "text": "Barare alle Paraolimpiadi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 431,
+      "cardType": "A",
+      "text": "Carisma",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 432,
+      "cardType": "A",
+      "text": "Keanu Reeves",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 433,
+      "cardType": "A",
+      "text": "Dario Argento",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 434,
+      "cardType": "A",
+      "text": "Nickelback",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 435,
+      "cardType": "A",
+      "text": "Una rapida occhiata",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 436,
+      "cardType": "A",
+      "text": "Cagarsi l'anima",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 437,
+      "cardType": "A",
+      "text": "Bambini con il cancro al culo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 438,
+      "cardType": "A",
+      "text": "Una sorpresa salata",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 439,
+      "cardType": "A",
+      "text": "Il sud",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 440,
+      "cardType": "A",
+      "text": "La violazione dei nostri diritti umani basilari",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 441,
+      "cardType": "A",
+      "text": "DEVI COSTRUIRE ALTRI PILONI",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 442,
+      "cardType": "A",
+      "text": "Stupro su appuntamento",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 443,
+      "cardType": "A",
+      "text": "Essere fantastici",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 444,
+      "cardType": "A",
+      "text": "Necrofilia",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 445,
+      "cardType": "A",
+      "text": "Super Quark",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 446,
+      "cardType": "A",
+      "text": "Le persone di colore",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 447,
+      "cardType": "A",
+      "text": "Codice cavalleresco",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 448,
+      "cardType": "A",
+      "text": "Lunchables",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 449,
+      "cardType": "A",
+      "text": "Stronze",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 450,
+      "cardType": "A",
+      "text": "Le persone totalmente handicappate",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 451,
+      "cardType": "A",
+      "text": "Orfani commoventi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 452,
+      "cardType": "A",
+      "text": "Hitler",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 453,
+      "cardType": "A",
+      "text": "Cacca che fa bruciare il culo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 454,
+      "cardType": "A",
+      "text": "Un altro dannato film sui vampiri",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 455,
+      "cardType": "A",
+      "text": "Molle Slinky attorcigliate",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 456,
+      "cardType": "A",
+      "text": "Il vero significato del Natale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 457,
+      "cardType": "A",
+      "text": "Estrogeni",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 458,
+      "cardType": "A",
+      "text": "Un'aspra marmellata per colazione",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 459,
+      "cardType": "A",
+      "text": "Quella cosa che dà la scossa agli addominali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 460,
+      "cardType": "A",
+      "text": "Espellere un calcolo renale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 461,
+      "cardType": "A",
+      "text": "Un buco del culo sbiancato",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 462,
+      "cardType": "A",
+      "text": "Michael Jackson",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 463,
+      "cardType": "A",
+      "text": "Impianti cibernetici",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 464,
+      "cardType": "A",
+      "text": "Ragazzi che non telefonano",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 465,
+      "cardType": "A",
+      "text": "Untori",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 466,
+      "cardType": "A",
+      "text": "Masturbazione",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 467,
+      "cardType": "A",
+      "text": "Allusione sul ceto sociale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 468,
+      "cardType": "A",
+      "text": "Flato vaginale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 469,
+      "cardType": "A",
+      "text": "Nascondere un'erezione",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 470,
+      "cardType": "A",
+      "text": "Intimo commestibile",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 471,
+      "cardType": "A",
+      "text": "Viagra",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 472,
+      "cardType": "A",
+      "text": "Zuppa che è troppo calda",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 473,
+      "cardType": "A",
+      "text": "Maometto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 474,
+      "cardType": "A",
+      "text": "Sesso a sorpresa! ",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 475,
+      "cardType": "A",
+      "text": "Mac",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 476,
+      "cardType": "A",
+      "text": "Bere da solo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 477,
+      "cardType": "A",
+      "text": "Dita a forma di cazzo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 478,
+      "cardType": "A",
+      "text": "Ferite da arma da taglio multiple",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 479,
+      "cardType": "A",
+      "text": "Farsela addosso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 480,
+      "cardType": "A",
+      "text": "Abusi infantili",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 481,
+      "cardType": "A",
+      "text": "Palline anali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 482,
+      "cardType": "A",
+      "text": "Morti civili",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 483,
+      "cardType": "A",
+      "text": "Salto della quaglia",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 484,
+      "cardType": "A",
+      "text": "Christian De Sica",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 485,
+      "cardType": "A",
+      "text": "Carne di cavallo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 486,
+      "cardType": "A",
+      "text": "Un cappello davvero alla moda",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 487,
+      "cardType": "A",
+      "text": "Kim Jong-il",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 488,
+      "cardType": "A",
+      "text": "Peli pubici sul bordo del cesso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 489,
+      "cardType": "A",
+      "text": "Testimoni di Geova",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 490,
+      "cardType": "A",
+      "text": "Discriminazione politica",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 491,
+      "cardType": "A",
+      "text": "Farlo dall'entrata posteriore",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 492,
+      "cardType": "A",
+      "text": "Imboccare Platinette",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 493,
+      "cardType": "A",
+      "text": "Insegnare a un robot ad amare",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 494,
+      "cardType": "A",
+      "text": "Un mare di guai",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 495,
+      "cardType": "A",
+      "text": "Un mulino a vento pieno di cadaveri",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 496,
+      "cardType": "A",
+      "text": "La tigre dei KeIIogg's",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 497,
+      "cardType": "A",
+      "text": "Indossare la biancheria al contrario per evitare di lavarla",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 498,
+      "cardType": "A",
+      "text": "Un raggio della morte",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 499,
+      "cardType": "A",
+      "text": "Il soffitto di vetro",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 500,
+      "cardType": "A",
+      "text": "Un frigorifero pieno di organi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 501,
+      "cardType": "A",
+      "text": "Il sogno americano",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 502,
+      "cardType": "A",
+      "text": "Bere un barile di birra a testa in giù",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 503,
+      "cardType": "A",
+      "text": "Quando scoreggi ma ti esce anche una sgommata",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 504,
+      "cardType": "A",
+      "text": "Rimangiarsi quello che si è detto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 505,
+      "cardType": "A",
+      "text": "Neonati morti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 506,
+      "cardType": "A",
+      "text": "Prepuzio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 507,
+      "cardType": "A",
+      "text": "Assoli di Sassofoni",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 508,
+      "cardType": "A",
+      "text": "Americani",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 509,
+      "cardType": "A",
+      "text": "Un feto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 510,
+      "cardType": "A",
+      "text": "Sparare fucilate al cielo mentre stai penetrando fino alle palle un cinghiale urlante",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 511,
+      "cardType": "A",
+      "text": "Giorgio Napolitano",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 512,
+      "cardType": "A",
+      "text": "Mutilati",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 513,
+      "cardType": "A",
+      "text": "Eugenetica",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 514,
+      "cardType": "A",
+      "text": "La mia situazione sentimentale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 515,
+      "cardType": "A",
+      "text": "Christopher Walken",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 516,
+      "cardType": "A",
+      "text": "Api?",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 517,
+      "cardType": "A",
+      "text": "Harry Potter erotica",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 518,
+      "cardType": "A",
+      "text": "Scuole Superiori",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 519,
+      "cardType": "A",
+      "text": "Sbronzarsi di collutorio",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 520,
+      "cardType": "A",
+      "text": "Nazisti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 521,
+      "cardType": "A",
+      "text": "1 kg di eroina Messicana di scarsa qualità",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 522,
+      "cardType": "A",
+      "text": "Stephen Hawking che parla sporco",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 523,
+      "cardType": "A",
+      "text": "Genitori morti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 524,
+      "cardType": "A",
+      "text": "Permanenza degli oggetti nella sviluppo cognitivo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 525,
+      "cardType": "A",
+      "text": "Pollici opponibili",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 526,
+      "cardType": "A",
+      "text": "Test di intelligenza con domande razziste",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 527,
+      "cardType": "A",
+      "text": "Parlare a vanvera",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 528,
+      "cardType": "A",
+      "text": "Motoseghe al posto delle mani",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 529,
+      "cardType": "A",
+      "text": "Nicolas Cage",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 530,
+      "cardType": "A",
+      "text": "Una sfilata di bellezza per bambini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 531,
+      "cardType": "A",
+      "text": "Esplosioni",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 532,
+      "cardType": "A",
+      "text": "Sniffare colla",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 533,
+      "cardType": "A",
+      "text": "Bruno Vespa molestato da uno stormo di avvoltoi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 534,
+      "cardType": "A",
+      "text": "Repressione",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 535,
+      "cardType": "A",
+      "text": "Rufis",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 536,
+      "cardType": "A",
+      "text": "La mia vagina",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 537,
+      "cardType": "A",
+      "text": "Pantaloni da cowboy senza sedere",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 538,
+      "cardType": "A",
+      "text": "Psyco",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 539,
+      "cardType": "A",
+      "text": "Dare il 110%",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 540,
+      "cardType": "A",
+      "text": "Sua altezza reale, regina Elisabetta ll",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 541,
+      "cardType": "A",
+      "text": "I Rhapsody of Fire",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 542,
+      "cardType": "A",
+      "text": "Essere tenuto in disparte",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 543,
+      "cardType": "A",
+      "text": "Goblin",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 544,
+      "cardType": "A",
+      "text": "Speranza",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 545,
+      "cardType": "A",
+      "text": "Martin Luther King",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 546,
+      "cardType": "A",
+      "text": "Un micropene",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 547,
+      "cardType": "A",
+      "text": "La mia anima",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 548,
+      "cardType": "A",
+      "text": "Un'orgia",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 549,
+      "cardType": "A",
+      "text": "Vichinghi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 550,
+      "cardType": "A",
+      "text": "Persone eccitanti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 551,
+      "cardType": "A",
+      "text": "Seduzione",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 552,
+      "cardType": "A",
+      "text": "Il complesso di Edipo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 553,
+      "cardType": "A",
+      "text": "Oche",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 554,
+      "cardType": "A",
+      "text": "Riscaldamento globale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 555,
+      "cardType": "A",
+      "text": "Musica New Age",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 556,
+      "cardType": "A",
+      "text": "Scaldamani tascabili",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 557,
+      "cardType": "A",
+      "text": "Fare il labbrino",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 558,
+      "cardType": "A",
+      "text": "Omicidio mediante veicolo a motore",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 559,
+      "cardType": "A",
+      "text": "Suffragio femminile",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 560,
+      "cardType": "A",
+      "text": "Un profilattico difettoso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 561,
+      "cardType": "A",
+      "text": "Forum",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 562,
+      "cardType": "A",
+      "text": "Bambini africani",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 563,
+      "cardType": "A",
+      "text": "Massacro di Utoya in Norvegia",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 564,
+      "cardType": "A",
+      "text": "Barack Obama",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 565,
+      "cardType": "A",
+      "text": "Asiatici che non sono bravi in matematica",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 566,
+      "cardType": "A",
+      "text": "Anziani uomini giapponesi",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 567,
+      "cardType": "A",
+      "text": "Scambiarsi battute divertenti",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 568,
+      "cardType": "A",
+      "text": "Coppie omosessuali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 569,
+      "cardType": "A",
+      "text": "Dividere le acque del Mar Rosso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 570,
+      "cardType": "A",
+      "text": "Arnold Schwarzenegger",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 571,
+      "cardType": "A",
+      "text": "Pompino alla guida",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 572,
+      "cardType": "A",
+      "text": "Addominali spettacolari",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 573,
+      "cardType": "A",
+      "text": "Panettone",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 574,
+      "cardType": "A",
+      "text": "Un leone depresso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 575,
+      "cardType": "A",
+      "text": "Un sacchetto di fagioli magici",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 576,
+      "cardType": "A",
+      "text": "Scelte di vita sbagliate",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 577,
+      "cardType": "A",
+      "text": "La mia vita sessuale",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 578,
+      "cardType": "A",
+      "text": "Auschwitz",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 579,
+      "cardType": "A",
+      "text": "Una tartaruga alligatore che ti sta mordendo la punta del pene",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 580,
+      "cardType": "A",
+      "text": "Una detonazione termonucleare",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 581,
+      "cardType": "A",
+      "text": "Il clitoride",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 582,
+      "cardType": "A",
+      "text": "II Big Bang",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 583,
+      "cardType": "A",
+      "text": "Mine antiuomo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 584,
+      "cardType": "A",
+      "text": "Amici che si mangiano tutti i salatini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 585,
+      "cardType": "A",
+      "text": "Capre che si stanno mangiando lattine",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 586,
+      "cardType": "A",
+      "text": "Lo Schiaccianoci: La danza della Fata Cofanetto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 587,
+      "cardType": "A",
+      "text": "Farsi una sega in una piscina di lacrime di bambini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 588,
+      "cardType": "A",
+      "text": "Flauto a pelle",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 589,
+      "cardType": "A",
+      "text": "Il mio momento",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 590,
+      "cardType": "A",
+      "text": "La metropolitana",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 591,
+      "cardType": "A",
+      "text": "Battute fuori luogo sull'olocausto",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 592,
+      "cardType": "A",
+      "text": "Un mare di guai",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 593,
+      "cardType": "A",
+      "text": "Fantasie di un taglialegna",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 594,
+      "cardType": "A",
+      "text": "Voce di Morgan Freeman",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 595,
+      "cardType": "A",
+      "text": "Donne nelle pubblicità di yogurt",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 596,
+      "cardType": "A",
+      "text": "Metodo naturale di allungamento del pene",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 597,
+      "cardType": "A",
+      "text": "Essere un fottuto stregone",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 598,
+      "cardType": "A",
+      "text": "Piercing nei genitali",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 599,
+      "cardType": "A",
+      "text": "Travestiti passabili",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 600,
+      "cardType": "A",
+      "text": "Combattimenti sexy con i cuscini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 601,
+      "cardType": "A",
+      "text": "Palle",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 602,
+      "cardType": "A",
+      "text": "Nonna",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 603,
+      "cardType": "A",
+      "text": "Attrito",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 604,
+      "cardType": "A",
+      "text": "Rompicoglioni",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 605,
+      "cardType": "A",
+      "text": "Scoreggiare e andarsene via",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 606,
+      "cardType": "A",
+      "text": "Essere uno stronzo con i bambini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 607,
+      "cardType": "A",
+      "text": "Installare, in casa, trappole esplosive per ostacolare i ladri",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 608,
+      "cardType": "A",
+      "text": "Sistema Oasi Tecnologica del Riposo materassi Eminflex",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 609,
+      "cardType": "A",
+      "text": "Morire",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 610,
+      "cardType": "A",
+      "text": "L'uragano Katrina",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 611,
+      "cardType": "A",
+      "text": "I gay",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 612,
+      "cardType": "A",
+      "text": "La follia di un uomo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 613,
+      "cardType": "A",
+      "text": "Uomini",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 614,
+      "cardType": "A",
+      "text": "Gli Amish",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 615,
+      "cardType": "A",
+      "text": "Uova di pterodattilo",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 616,
+      "cardType": "A",
+      "text": "Esercizi di ``costruzione del gruppo''",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 617,
+      "cardType": "A",
+      "text": "Un tumore al cervello",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 618,
+      "cardType": "A",
+      "text": "Carte contro l'umanità",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 619,
+      "cardType": "A",
+      "text": "Aver paura di se stesso",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 620,
+      "cardType": "A",
+      "text": "Lady Gaga",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 621,
+      "cardType": "A",
+      "text": "L'uomo del latte",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 622,
+      "cardType": "A",
+      "text": "Essere sboccati",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 623,
+      "cardType": "A",
+      "text": "Mestruazioni",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 624,
+      "cardType": "A",
+      "text": "Scaccolarsi con l'alluce del piede sinistro.",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 625,
+      "cardType": "A",
+      "text": "Avere peli pubici fra i denti.",
+      "numAnswers": 0,
+      "expansion": "Base Set"
+   },
+   {
+      "id": 626,
+      "cardType": "A",
+      "text": "Bomba Atomica.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 627,
+      "cardType": "A",
+      "text": "The Big Bang Theory.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 628,
+      "cardType": "A",
+      "text": "Pulire un water incrostato, in un autogrill nel napoletano.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 629,
+      "cardType": "A",
+      "text": "Tatuaggio sbagliato.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 630,
+      "cardType": "A",
+      "text": "Martello Pneumatico.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 631,
+      "cardType": "A",
+      "text": "Cavallo Pazzo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 632,
+      "cardType": "A",
+      "text": "Cicciolina nuda.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 633,
+      "cardType": "A",
+      "text": "Sheldon Cooper.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 634,
+      "cardType": "A",
+      "text": "BAZINGA!!",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 635,
+      "cardType": "A",
+      "text": "Si trasforma in un razzo missile.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 636,
+      "cardType": "A",
+      "text": "Uscimmo a riveder le stelle.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 637,
+      "cardType": "A",
+      "text": "Giovanni Verga.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 638,
+      "cardType": "A",
+      "text": "Poliziotti senza pantaloni con grossi problemi di igiene personale.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 639,
+      "cardType": "A",
+      "text": "Un'orda famelica di napoletani che non hanno pagato il grattino e vogliono il pizzo!",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 640,
+      "cardType": "A",
+      "text": "Aver paura dei vicoli bui mentre cammini per strada con addosso soltanto un impermeabile rosa.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 641,
+      "cardType": "A",
+      "text": "Tarapia tapioco come se fosse antani con la supercazzola prematurata, con lo scappellamento a destra.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 642,
+      "cardType": "A",
+      "text": "Un panino col prosciutto.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 643,
+      "cardType": "A",
+      "text": "Organizzare cene eleganti per scopi professionali.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 644,
+      "cardType": "A",
+      "text": "Simulare un orgasmo gridando come una capra affamata.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 645,
+      "cardType": "A",
+      "text": "Una Peroni sudata.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 646,
+      "cardType": "A",
+      "text": "La nipote di Mubarack.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 647,
+      "cardType": "A",
+      "text": "Un vaffanculo a colazione è quello che ci vuole.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 648,
+      "cardType": "A",
+      "text": "Ho stato io.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 649,
+      "cardType": "A",
+      "text": "Il celodurismo bossiano.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 650,
+      "cardType": "A",
+      "text": "Scorreggiare nell'ascensore affollato e guardare schifato quello accanto. ",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 651,
+      "cardType": "A",
+      "text": "Volere la botte piena, la moglie ubriaca e un cazzo in culo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 652,
+      "cardType": "A",
+      "text": "Un milione per gli organizzatori, dieci per la questura.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 653,
+      "cardType": "A",
+      "text": "Dormire a quattro di spade come non ci fosse un domani.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 654,
+      "cardType": "A",
+      "text": "Cose che voi umani non potete nemmeno immaginare.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 655,
+      "cardType": "A",
+      "text": "Mangiare il ben di Dio e cagare l'opera del diavolo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 656,
+      "cardType": "A",
+      "text": "Diabolico nell'amplesso, sproporzionato per quel che riguarda le dimensioni del sesso.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 657,
+      "cardType": "A",
+      "text": "Il generatore di fusione che dà energia ai tempo-circuiti e al flusso canalizzatore.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 658,
+      "cardType": "A",
+      "text": "Schiacciare i ricci con il culo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 659,
+      "cardType": "A",
+      "text": "Ascoltare Marco Masini durante un giro alla Roulette Russa.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 660,
+      "cardType": "A",
+      "text": "Travestirsi da puttanone da competizione.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 661,
+      "cardType": "A",
+      "text": "Pierluca Scaccolarsi al semaforo e dire al venditore che non voglio i fazzoletti.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 662,
+      "cardType": "A",
+      "text": "Fare i gargarismi con il cemento liquido a presa rapida.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 663,
+      "cardType": "A",
+      "text": "Controllare le sgommate nelle mutande.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 664,
+      "cardType": "A",
+      "text": "Fare una puzza ed incolpare il cane.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 665,
+      "cardType": "A",
+      "text": "Dire,appena svegli, buongiorno Aaamore aspirando la A per 3 sec.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 666,
+      "cardType": "A",
+      "text": "Autopsicanalisi.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 667,
+      "cardType": "A",
+      "text": "La crisi economica.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 668,
+      "cardType": "A",
+      "text": "L'ascella maleodorante.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 669,
+      "cardType": "A",
+      "text": "Vendere la verginità su ebay.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 670,
+      "cardType": "A",
+      "text": "Truccarsi come Moira Orfei.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 671,
+      "cardType": "A",
+      "text": "Guidare a fari spenti nella notte per vedere, se poi è tanto difficile morire.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 672,
+      "cardType": "A",
+      "text": "Perché tutto attaccato si scrive staccato mentre staccato si scrive tutto attaccato?",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 673,
+      "cardType": "A",
+      "text": "Essere inculato con veemenza, senza vasellina e con la sabbia da un nero mastodontico.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 674,
+      "cardType": "A",
+      "text": "William Wallace in una spiaggia di nudisti",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 675,
+      "cardType": "A",
+      "text": "Obi Wan Kenobi che simula una pugnetta con la spada laser",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 676,
+      "cardType": "A",
+      "text": "La mamma di Stifler",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 677,
+      "cardType": "A",
+      "text": "Fare economia comprando la carta igienica ruvida",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 678,
+      "cardType": "A",
+      "text": "Salto della quaglia",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 679,
+      "cardType": "A",
+      "text": "Video porno di Belen",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 680,
+      "cardType": "A",
+      "text": "Mutande piene di sabbia [della lettiera del gatto]",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 681,
+      "cardType": "A",
+      "text": "Peli pubici di sconosciuti",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 682,
+      "cardType": "A",
+      "text": "Saponette fatte con grasso umano",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 683,
+      "cardType": "A",
+      "text": "Pianta di ficus, simbolo del potere",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 684,
+      "cardType": "A",
+      "text": "Cotton fioc usati",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 685,
+      "cardType": "A",
+      "text": "L'occhio di Sauron con la congiuntivite",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 686,
+      "cardType": "A",
+      "text": "Un caffè corretto con del pessimo piscio di cane",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 687,
+      "cardType": "A",
+      "text": "Riaccendersi il mozzicone di una sigaretta trovata per terra",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 688,
+      "cardType": "A",
+      "text": "L'insistente signorina che ti propone di cambiare piano telefonico",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 689,
+      "cardType": "A",
+      "text": "Scorreggiare così tanto da far scattare l'allarme antigas.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 690,
+      "cardType": "A",
+      "text": "Scaccolarsi il naso ed essere scoperti.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 691,
+      "cardType": "A",
+      "text": "Cristiano Malgioglio.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 692,
+      "cardType": "A",
+      "text": "Toccarsi i genitali senza farsi vedere.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 693,
+      "cardType": "A",
+      "text": "Sculacciata.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 694,
+      "cardType": "A",
+      "text": "Uomini nudi che fanno l'elicottero.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 695,
+      "cardType": "A",
+      "text": "Marshmallows avvelenati.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 696,
+      "cardType": "A",
+      "text": "Il 69.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 697,
+      "cardType": "A",
+      "text": "La versione porno dei Simpsons.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 698,
+      "cardType": "A",
+      "text": "Squali volanti.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 699,
+      "cardType": "A",
+      "text": "Fare piedino alla persona sbagliata.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 700,
+      "cardType": "A",
+      "text": "Fare un rutto mentre si recita la poesia di Natale.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 701,
+      "cardType": "A",
+      "text": "Suocera rompipalle.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 702,
+      "cardType": "A",
+      "text": "Sbagliare DVD e far partire un porno.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 703,
+      "cardType": "A",
+      "text": "Vecchietti che guardano lavori in corso con le braccia dietro la schiena.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 704,
+      "cardType": "A",
+      "text": "Una collezione di porno con protagonisti nani ben dotati.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 705,
+      "cardType": "A",
+      "text": "Blue screen of death",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 706,
+      "cardType": "A",
+      "text": "La pipì che scappa appena usciti di casa",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 707,
+      "cardType": "A",
+      "text": "Un cane che lecca il gelato spalmato sulle tue palle.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 708,
+      "cardType": "A",
+      "text": "Il funerale di Nietzsche.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 709,
+      "cardType": "A",
+      "text": "Un quadro dipinto da una scimmia con le emorroidi.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 710,
+      "cardType": "A",
+      "text": "Annusare il culo ai passanti credendosi un cane.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 711,
+      "cardType": "A",
+      "text": "Pulizia Etnica.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 712,
+      "cardType": "A",
+      "text": "WikiLeaks.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 713,
+      "cardType": "A",
+      "text": "Essere controllati dagli USA tramite l'NSA.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 714,
+      "cardType": "A",
+      "text": "Agenti FBI che si comportano come checche isteriche.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 715,
+      "cardType": "A",
+      "text": "Mettere il dito nel culo di pikachu e prendere la scossa.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 716,
+      "cardType": "A",
+      "text": "Fingere un malessere per non rispondere ad una domanda",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 717,
+      "cardType": "A",
+      "text": "Diventare invisibile e fare scherzi sconci alle ragazze negli spogliatoi delle piscine comunali, mentre il vescovo è in visita alla struttura.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 718,
+      "cardType": "A",
+      "text": "Bambole voodoo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 719,
+      "cardType": "A",
+      "text": "Acconciarsi i capelli con letame di cavallo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 720,
+      "cardType": "A",
+      "text": "Sfidarsi a una gara di lancio di bocce incendiarie.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 721,
+      "cardType": "A",
+      "text": "Un nuovo sistema di allungamento del pene.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 722,
+      "cardType": "A",
+      "text": "Farsi un piercing ai genitali con una sparachiodi.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 723,
+      "cardType": "A",
+      "text": "Porno acrobatico.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 724,
+      "cardType": "A",
+      "text": "Un rutto da Coppa dei Campioni.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 725,
+      "cardType": "A",
+      "text": "Gare di rutti.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 726,
+      "cardType": "A",
+      "text": "Apparire come guest star nel nuovo video di Gemmadelsud.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 727,
+      "cardType": "A",
+      "text": "Infilarsi un ravanello nel culo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 728,
+      "cardType": "A",
+      "text": "Mangiare teste umane.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 729,
+      "cardType": "A",
+      "text": "Tingersi il pube a righe bianche e rosa.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 730,
+      "cardType": "A",
+      "text": "Brucare.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 731,
+      "cardType": "A",
+      "text": "Autoerotismo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 732,
+      "cardType": "A",
+      "text": "Action Man.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 733,
+      "cardType": "A",
+      "text": "Entrare in una chiesa urlando di essere l'Anticristo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 734,
+      "cardType": "A",
+      "text": "Pollo di gomma con carrucola.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 735,
+      "cardType": "A",
+      "text": "Uno svizzero, un francese, un tedesco e un'italiano.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 736,
+      "cardType": "A",
+      "text": "L'uomo saggio ama usare l'ombrello quando piove!",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 737,
+      "cardType": "A",
+      "text": "L'uomo coraggioso ama sentire la natura sulla pelle.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 738,
+      "cardType": "A",
+      "text": "Ho visto cose che voi umani non potreste immaginare...",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 739,
+      "cardType": "A",
+      "text": "BitTorrent",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 740,
+      "cardType": "A",
+      "text": "Riso Patate e Cozze.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 741,
+      "cardType": "A",
+      "text": "Voglio Godere!!!",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 742,
+      "cardType": "A",
+      "text": "Un mondo di dolore!",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 743,
+      "cardType": "A",
+      "text": "Finchè c'è vita c'è speranza.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 744,
+      "cardType": "A",
+      "text": "Ferrari FF",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 745,
+      "cardType": "A",
+      "text": "Qui e lì, notte e dì, questo il mondo fa girar.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 746,
+      "cardType": "A",
+      "text": "Fiamme torreggianti.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 747,
+      "cardType": "A",
+      "text": "Sono il conducente del treno di cacca!",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 748,
+      "cardType": "A",
+      "text": "A Kuala Lumpur nel quartiere dei ladyboy.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 749,
+      "cardType": "A",
+      "text": "Navi da combattimento in fiamme al largo dei bastioni di Orione e raggi B balenare nel buio vicino alle porte di Tannhauser.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 750,
+      "cardType": "A",
+      "text": "Un Tandem.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 751,
+      "cardType": "A",
+      "text": "La pillola del giorno dopo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 752,
+      "cardType": "A",
+      "text": "Al mio via scatenate l'inferno!",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 753,
+      "cardType": "A",
+      "text": "Drag queen.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 754,
+      "cardType": "A",
+      "text": "Acido Acetilsalicilico.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 755,
+      "cardType": "A",
+      "text": "Il gatto di Schrodinger.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 756,
+      "cardType": "A",
+      "text": "La Sirenetta di Copenaghen.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 757,
+      "cardType": "A",
+      "text": "Un Clochard.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 758,
+      "cardType": "A",
+      "text": "Vita morte e miracoli.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 759,
+      "cardType": "A",
+      "text": "Supercalifragilistichespiralidoso.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 760,
+      "cardType": "A",
+      "text": "Il Jolly Roger.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 761,
+      "cardType": "A",
+      "text": "Uno alla testa ed uno al cuore.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 762,
+      "cardType": "A",
+      "text": "Il K2.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 763,
+      "cardType": "A",
+      "text": "Bevo il the a testa in giù usando i piedi.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 764,
+      "cardType": "A",
+      "text": "L'aiuto del pubblico.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 765,
+      "cardType": "A",
+      "text": "Matitina IKEA.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 766,
+      "cardType": "A",
+      "text": "Dieta mediterranea.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 767,
+      "cardType": "A",
+      "text": "Tre Metri Sopra il Cielo.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 768,
+      "cardType": "A",
+      "text": "Jessica Fletcher.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 769,
+      "cardType": "A",
+      "text": "Fughe di gas.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 770,
+      "cardType": "A",
+      "text": "Evadere il canone RAI.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 771,
+      "cardType": "A",
+      "text": "Alice nel Paese delle Pornomeraviglie.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 772,
+      "cardType": "A",
+      "text": "Un tristissimo film Bielorusso.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 773,
+      "cardType": "A",
+      "text": "Adolescenti arrapati.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 774,
+      "cardType": "A",
+      "text": "Bombardamenti indiscriminati.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 775,
+      "cardType": "A",
+      "text": "L'ennesima canzone neomelodica napoletana.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 776,
+      "cardType": "A",
+      "text": "Reggere la candela.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 777,
+      "cardType": "A",
+      "text": "Mirabolanti cadute da tacco 12!",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 778,
+      "cardType": "A",
+      "text": "Il Colonnello Giuliacci.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 779,
+      "cardType": "A",
+      "text": "Milf estremamente espansive!",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 780,
+      "cardType": "A",
+      "text": "Sindrome di Down",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 781,
+      "cardType": "A",
+      "text": "PornoStar con desideri sessuali per il proprio padre",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 782,
+      "cardType": "A",
+      "text": "Comprare due banane per mangiarne almeno una",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 783,
+      "cardType": "A",
+      "text": "Immigrati clandestini",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 784,
+      "cardType": "A",
+      "text": "Cowboy gay che mangiano budino",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 785,
+      "cardType": "A",
+      "text": "Ascelle puzzolenti",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 786,
+      "cardType": "A",
+      "text": "Un ninja con una diarrea incontrollabile",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 787,
+      "cardType": "A",
+      "text": "Un culo grasso in pantaloni da yoga",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 788,
+      "cardType": "A",
+      "text": "Usare poco lubrificante",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 789,
+      "cardType": "A",
+      "text": "Un seno così floscio che le arriva alle ginocchia",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 790,
+      "cardType": "A",
+      "text": "Un travestito",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 791,
+      "cardType": "A",
+      "text": "Cercatore d'oro",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 792,
+      "cardType": "A",
+      "text": "Scrivere un sms alla propria EX mentre si è ubriachi di vodka",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 793,
+      "cardType": "A",
+      "text": "Una Death Race tra sedie a rotelle",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 794,
+      "cardType": "A",
+      "text": "Un aborto fallito.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 795,
+      "cardType": "A",
+      "text": "Realizzare che è finita la carta igenica quando ormai è troppo tardi",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 796,
+      "cardType": "A",
+      "text": "Una tanadi tigri del bengala affamate.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 797,
+      "cardType": "A",
+      "text": "Macchie non identificabili sulla punta del pene.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 798,
+      "cardType": "A",
+      "text": "Capelli nello scarico della doccia.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 799,
+      "cardType": "A",
+      "text": "Botulino.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 800,
+      "cardType": "A",
+      "text": "Anoressia.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 801,
+      "cardType": "A",
+      "text": "Lupus.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 802,
+      "cardType": "A",
+      "text": "Doctor House.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 803,
+      "cardType": "A",
+      "text": "Schiavitù.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 804,
+      "cardType": "A",
+      "text": "Spada Laser.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 805,
+      "cardType": "A",
+      "text": "Feci spalmate sulla parete del bagno.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 806,
+      "cardType": "A",
+      "text": "Pirati inesperti.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 807,
+      "cardType": "A",
+      "text": "Allergia ai Preservativi.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 808,
+      "cardType": "A",
+      "text": "Guardare un porno in pubblico sull'iPad a tutto volume.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 809,
+      "cardType": "A",
+      "text": "Facebook.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 810,
+      "cardType": "A",
+      "text": "Una pellicola in Super-8 della prima GangBang della nonna.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 811,
+      "cardType": "A",
+      "text": "M2O",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 812,
+      "cardType": "A",
+      "text": "Test della gravidanza.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 813,
+      "cardType": "A",
+      "text": "GloryHole.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 814,
+      "cardType": "A",
+      "text": "Kim Jong Un.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 815,
+      "cardType": "A",
+      "text": "Anime Hentai.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 816,
+      "cardType": "A",
+      "text": "Penny!? Penny!? Penny!?",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 817,
+      "cardType": "A",
+      "text": "Un negro di origine asiatica.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 818,
+      "cardType": "A",
+      "text": "Dolore da emorroidi.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 819,
+      "cardType": "A",
+      "text": "Necromanzia.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 820,
+      "cardType": "A",
+      "text": "Massaggiatrici cinesi molto esperte.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 821,
+      "cardType": "A",
+      "text": "Traffico d'organi.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 822,
+      "cardType": "A",
+      "text": "Lavoro sottopagato.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 823,
+      "cardType": "A",
+      "text": "Riportare in vita i morti.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 824,
+      "cardType": "A",
+      "text": "Vendere organi umani a basso costo e con scarse garanzie igeniche.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 825,
+      "cardType": "A",
+      "text": "Epatite C contratta mangiando cozze crude.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 826,
+      "cardType": "A",
+      "text": "Lenti a contatto a raggi X.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 827,
+      "cardType": "A",
+      "text": "Ridere a crepapelle per nascondere una sonora puzza.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 828,
+      "cardType": "A",
+      "text": "Palpatina furtiva.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 829,
+      "cardType": "A",
+      "text": "Orsi polari che ballano il dadaumpa.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 830,
+      "cardType": "A",
+      "text": "Un pappagallo che dice cose sconce.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 831,
+      "cardType": "A",
+      "text": "Isabella.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 832,
+      "cardType": "A",
+      "text": "Animali domestici guardoni.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 833,
+      "cardType": "A",
+      "text": "Gattini ninja.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 834,
+      "cardType": "A",
+      "text": "Crisi di mezza età.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 835,
+      "cardType": "A",
+      "text": "Un superdotato.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 836,
+      "cardType": "A",
+      "text": "L'uomo tigre.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 837,
+      "cardType": "A",
+      "text": "Un palestrato con micropene.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 838,
+      "cardType": "A",
+      "text": "Primo bacio con l'alito di aglio.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 839,
+      "cardType": "A",
+      "text": "Uno spinello.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 840,
+      "cardType": "A",
+      "text": "Bicicletta senza sellino.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 841,
+      "cardType": "A",
+      "text": "Pensare di stare per saltare su un bel tronco e finire in una merda di vacca.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 842,
+      "cardType": "A",
+      "text": "Un hippie che si è appena fatto di LSD.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 843,
+      "cardType": "A",
+      "text": "Scroto.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 844,
+      "cardType": "A",
+      "text": "Vomitare a denti stretti per sentire i pezzettoni.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   },
+   {
+      "id": 845,
+      "cardType": "A",
+      "text": "Avere peli pubici fra i denti.",
+      "numAnswers": 0,
+      "expansion": "Espansione 1"
+   }
+]
