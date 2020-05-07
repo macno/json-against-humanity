@@ -1,0 +1,93 @@
+_ is going to solve all our problems.
+_ is the only way I can work with my colleagues.
+'Everything fails all the time' was referring to _.
+50% of digital transformation projects end in _.
+75% of disciplinary action was because of _.
+Being pinged by PagerDuty because of _.
+Copying code directly from Stack Overflow led to _.
+Dear boss, I need to go to KubeCon because I want to learn about _.
+Every deployment has a sidecar for _.
+For my next trick, I will containerise _.
+I drink to forget _.
+I passed my last tech interview by using mostly _.
+I passed the Certified Kubernetes Administrator exam by mostly studying _.
+I'm no scrum master, but I'm pretty sure your team is suffering from _.
+Installing with `curl xxx | sudo bash` often results in _.
+Introducing a brand new CI/CD platform! It contains _.
+It really is for the best if the operations team don't know about _.
+It's a pity that computer science graduates these days are all getting involved in _.
+Just give _ to operations, they can worry about the random failures.
+Kubernetes the hard way would be so much better if it featured _.
+My favourite book is 'A dummies guide to _'.
+My favourite session at KubeCon was an in-depth discussion on _.
+Our last crash-loop backoff was caused by _.
+Our security strategy is underpinned by _.
+The best story I read on k8s.af involved _.
+The company hackathon was completely ruined by _.
+The Gartner magic quadrant for _.
+The highlight of this weeks technology demo was _.
+The real reason we don't release on Fridays.
+The team are really struggling with _.
+They said we were crazy. They said we couldn't containerise  _. They were wrong!
+This isn't a witch hunt, we just want to know who was stupid enough to implement _.
+Troubleshooting a Kubernetes deployment using _.
+We complete all our documentation using _.
+We created dashboards in _ so now we can visualise all our problems.
+We have a _ first strategy.
+We implemented _ because it looks great on my CV.
+We implemented a service mesh because of _.
+We remediate vulnerabilities by implementing _.
+We secretly filmed you working on _, pay us 5 bitcoin or we'll release the recording.
+We've added _ into DevOps.
+What idea did you bring back from KubeCon?
+What is a developer's best friend?
+What makes you uncontrollably swear at the computer?
+What makes your job exciting?
+What never fails to liven up a retrospective?
+What would your CISO find disturbing, yet oddly satisfying?
+What's currently sending me 1000 alerts per second?
+What's your secret power?
+When Google first created Borg, they actually intended it for _.
+Someone left an endpoint open to the internet, now we have lots of _.
+We have a _ strategy, it's going to solve all our problems
+I got 99 problems, but _ ain't one
+All I see is _ everywhere
+Coming to the CNCF this year, _
+Our containers are riddled with bugs so we're going to implement _.
+We migrated all our applications to _ to solve our problems!
+The NSA are now deploying _ in order to secure everything.
+We finally managed to refactor our old applications into _.
+I don't solve problems with _, I just kill the container.
+We implemented _ and now we're posting a long story on k8s.af
+Our main tool for passing an impromptu security audit is _.
+Imagine if the Delorean in Back to the Future had been powered by _.
+The banking industry was forever changed when we first introduced them to _.
+Kubernetes is a slippery slope that leads to _.
+What is infrastructures worst enemy?
+Instead of coal, Father Christmas now gives bad DevOps teams _.
+The security team are currently crying because our project deployed _?
+The DevOps team are crying because the CTO decided we will be exclusively using _?
+I'm sorry, I couldn't complete that piece of work because of _.
+My next hit novel will include the exciting drama of how a company implemented _.
+The security team is hiding from me because I keep using _.
+I never truly understood DevSecOps until I encountered _.
+Why is your CPU fan constantly at 100%?
+I won't produce any work this week as I'll be focused on _.
+As a DevOps team lead, I'm no stranger to _.
+A canary release is basically just doing _.
+We're using a _ framework.
+When we were at the design stage, the fundamental question we asked was _.
+This application is failing because of _.
+My favourite part of working from home is  _.
+What are you scared to tell your head of security about?
+We have a cultural problem, we have too many / too much _.
+We implemented two-factor authentication by implementing  _.
+After troubleshooting an intermittent problem for weeks, we finally discovered the root cause was _.
+To support the applications when they move to production, we use _.
+We don't like image scanning our containers because of _.
+Instead of doing the long overdue documentation, you're currently working on _.
+If you had a university degree in _ you'd be more hireable.
+What is LD_PRELOAD really good for?
+When everything is on fire, I grab _ before running out of the building.
+To improve our security, we decided to store all our sensitive data in _.
+The question of 'Will it scale?' was finally answered with _.
